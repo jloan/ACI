@@ -1,0 +1,24 @@
+Power.
+
+# Guiding Questions
+* What power relations are produced in the ecology and what are the most effective or preferable ones for students’ individual learning goals and the course’s overall learning goals?
+* How much control and decision-making do students have in the creation and implementation of all assessment processes and parts?
+* How are vulnerable students (e.g., quiet students, introverted students, students of color, multilingual students, students with disabilities, etc.) respectfully and conscientiously encouraged to participate in the creation, monitoring, and revision of the assessment ecology?
+
+In framing the course projects as being responses to individual writer's situations -- what their interests and commitments are -- my intention is to empower the students in coming to their own purposes, contexts, audiences and genres for writing, even if these situations differ from the dominant white racial habitus. So, in terms of power, I very much present myself as someone, not so much with a particular expertise in writing (or at least not in producing traditionally academic texts), but as someone with a reasonably developed ability or expertise to be aware of the situational nature of writing.
+
+So I see myself has having a lot of control in designing the big picture framework of the projects -- that they will extend but students have lots of control and decisions make in the developing these projects, which are the core assessments for the course. For example, it even plays out (often) that students can decide or have control over whether they do two different writing projects or they commit to the development of single project. Sometimes a students will decide to pursue a particular path initially and take this to a draft, and then upon reflection realize their purposes and goals have changed, and they want to work in a different genre, etc. I accept this change of plans and support it. Other students will get to a an initial draft and want to continue with that path rather than say do a "Writing Project #2" -- I also support this choice. There are potentially different labor considerations in these varying oaths and these considerations become central to the discussion of how students want to proceed, and we also factor these considerations into the framing of a final self-evaluation.
+
+The power of the final grade is rooted in the students' self-evaluation, and I continue to emphasize that I will trust the students evals. In most instances I tend to advocate to the student -- to help make visible for them -- the ways they meet course outcomes (determined by the department) as well as their own personal learning outcomes -- articulated at various points in the course and via project dialogues/feedback. These self-evaluations are coupled with a collowective development of the kinds of criteria that might help us determine an a letter grade -- how do we treat late work or missing assignments, etc.
+
+# Monitoring.
+How might the teacher and students monitor power and its movements in the class in ways that can help make sense of judgments, processes, and parts? How might observations be made about the way particular habitus carry with them or assume more power in communication contexts, say in past writing classes or in the present one? How is that power embodied? Are there racial aspects to it? Are there trends that seem racialized?
+
+# Student Participation.
+How are students involved in the assessment ecology generally? Do students get to create or control any aspects of the ecology? Do they have any say in what is assessed, how that writ- ing is assessed, who assesses it, and what those assessments mean to the calculation of their course grades? Do students get to negotiate the way their grades or any evaluations of their writing is done?
+
+# Difference (from the white racial norm).
+How will power relations be affected by various students who come with different habitus from the dominant white racial habitus that informs the expectations of the classroom? How will students’ interactions with you or with each other be mediated so that power relations can be explicitly discussed with students and equalized (realizing they are never made equal)? How do you plan to discuss and get students to listen to each other, to listen for difference in productive ways, to engage in what Trimbur (1989) calls “dissensus,” or what Ratcliffe (2005) calls “rhetorical listening”?
+
+# Teacher Power.
+How do you mediate your own power as the teacher in the ecology? How do you plan to get students to avoid seeing your position in the ecology as someone who will tell them what to do or fix in their writing? What control of the ecology does the teacher have that she might reasonably and explicitly give up or share with students?

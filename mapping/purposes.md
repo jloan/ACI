@@ -1,4 +1,4 @@
-# Guiding Questions
+<!--# Guiding Questions
 
 * What various purposes for learning are made explicit about the assessment of students’ writing, and how well do they articulate a problematizing of the students’ existential writing situations?  
 * Why are you or your students reading or judging any particular piece of writing or a draft in the way you are?  
@@ -6,8 +6,23 @@
 * How do you ensure that students are not penalized because they are not white and middle class, yet still guarantee that they develop as readers and writers in meaningful and productive ways?  
 * In what ways are you asking students to problematize their existential writing assessment situations, or asking them to see their own habitus next to ideal ones that assignments imagine or other readers imagine?  
 * How are students’ various relations to the dominant discourse expected in the course, which is usually based on a white racial habitus and a local SEAE, accounted for in the purposes of assessment in the course?  
-* How are the purposes for assessing writing helping students critique the white racial habitus and local SEAE that they may still have to approximate?
+* How are the purposes for assessing writing helping students critique the white racial habitus and local SEAE that they may still have to approximate? -->
 
+<!-- # Course/Teacher Purposes.
+
+Is there a larger antiracist purpose for the assessment of writing in general in the course? Is that larger purpose made clear to students and is it consistently maintained across all the activities in the course? Is there a formal moment when students can reflect upon this larger purpose, and connect it to their own practices and experiences? -->
+
+<!-- # Student Purposes.
+
+How involved are students in constructing and articulating the purposes for each assessment process? Do they have opportunities to create and act upon their own purposes for individual assessment activities? How are those individual purposes accounted for in the assessment processes and parts in the ecology?-->
+
+# Inoue's Purpose
+
+In this course, the purpose for grading and grades is to create a compassionate and open place for all to labor through and learn English languaging in the ways they can at this moment, and to confront the systemic paradoxes produced through the use of a single, elite, white, masculine, monolingual, heteronormative standard of English as the only way to understand and mark progress, success, clarity, meaning, critical thinking, and other competencies associated with language learning.
+
+<!-- I'm going to work in the spirit of the GitHub fork/branch. "Most commonly, forks are used to either propose changes to someone else's project to which you do not have write access, or to use someone else's project as a starting point for your own idea." So, I'll start with Inoue's purpose, which I actually generally feel okay about. Inoue's purpose resonates with me, but I'm going to work to articulate my purpose in my own language. The initial repo for this project is the text of my initial attempt to map my assessment ecology.-->
+
+# My Purpose 
 
 The primary purpose for learning in my course is, I believe, to develop a better understanding of the situational nature of writing and communication. In the opening days of the course (and in the opening passages of the syllabus) I stress that the primary take away I have for the course is the concept that *writing is situational*. I assert that if at the end of our time together someone asked what you've learned, that if students can state that concept and offer an explaination for what means for them both as readers and writers then in my mind the course will have been a success.
 
@@ -19,14 +34,4 @@ Ultimately all of the *Why's* for writing and reading and judging this work in t
 
 In terms of *not penalizing* students for not being middle-class, or white, my intention is to value the students making and attempting to act on situational choices. In other words, the student writing in the class is not judged on the quality of the writing product itself, but is judged on the students' ability and willing ness to reflect on both their awareness of the writing situation and the choices they have made to navigate and participate in that situation.
 
-So, I would forward that this *writing is situational* approach does
-
-
-
-# Course/Teacher Purposes.
-
-Is there a larger antiracist purpose for the assessment of writing in general in the course? Is that larger purpose made clear to students and is it consistently maintained across all the activities in the course? Is there a formal moment when students can reflect upon this larger purpose, and connect it to their own practices and experiences?
-
-# Student Purposes.
-
-How involved are students in constructing and articulating the purposes for each assessment process? Do they have opportunities to create and act upon their own purposes for individual assessment activities? How are those individual purposes accounted for in the assessment processes and parts in the ecology?
+So, I would forward that this *writing is situational* approach does...

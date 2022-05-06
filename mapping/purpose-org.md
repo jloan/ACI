@@ -1,0 +1,5 @@
+# Inoue's Purpose
+
+In this course, the purpose for grading and grades is to create a compassionate and open place for all to labor through and learn English languaging in the ways they can at this moment, and to confront the systemic paradoxes produced through the use of a single, elite, white, masculine, monolingual, heteronormative standard of English as the only way to understand and mark progress, success, clarity, meaning, critical thinking, and other competencies associated with language learning.
+
+<!-- I'm going to work in the spirit of the GitHub fork/branch. "Most commonly, forks are used to either propose changes to someone else's project to which you do not have write access, or to use someone else's project as a starting point for your own idea." So, I'll start with Inoue's purpose, which I actually generally feel okay about. Inoue's purpose resonates with me, but I'm going to work to articulate my purpose in my own language. The initial repo for this project is the text of my initial attempt to map my assessment ecology.-->

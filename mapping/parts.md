@@ -24,15 +24,6 @@ The parts that are present, developed, exchanged, and manipulated...
 
 * *Reflections and self-assessments*. These are also artifacts in the course. Submissions of major elements of the course -- Research Documentation and Writing Projects -- also prompt asking students to reflect on and self-assess their work. These reflections and self-assessments are primarily grounded in the situational concepts that frame these projects. Students are asked, for example to annotate their drafts -- using Google or other tools -- and discuss the decisions they made in in composing the work. Reflections and self-assessments, will also address the idea of grades, posing questions that try to get at what specifically in a particular work -- what qualities -- would designate it as say "A" level work vs. "B" level work. We use these conversations to help extend our conversations about grades in other areas, etc/
 
-
-
-
-
-
-
-
-
-
 # Rubrics
 
 How are the expectations of writing (e.g., assignment instructions, assignment processes, and rubrics) created and revised? Do students have a say in their creation or revisions? What does the artifact that embodies expectations in writing look like? What do students do with it? What does the teacher do with it? How is the articulation of the rubric such that it calls attention to its own participation in a white racial habitus, or others?
